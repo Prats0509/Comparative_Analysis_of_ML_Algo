@@ -31,7 +31,7 @@ The primary objective is to determine the most effective machine learning algori
    - ROC curves and other performance plots were generated using `matplotlib` and `seaborn`.
 
 ## Results
-The project includes a comparative analysis of algorithms, highlighting their strengths and weaknesses for different datasets and metrics. [Specific results can be detailed here if available.]
+The project includes a comparative analysis of algorithms, highlighting their strengths and weaknesses for different datasets and metrics.
 
 ## Prerequisites
 Install the following Python libraries before running the notebook:
